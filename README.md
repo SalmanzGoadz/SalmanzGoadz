@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a high school student. I also like manga, anime, and learning coding. The programming languages ​​I learn are HTML, CSS, and Javascript
+I am a high school student. I also like manga, anime, and learning coding. The programming languages ​​I learn are HTML, CSS, Javascript,and more
 
 
 ## 🌐 Socials:
